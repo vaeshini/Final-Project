@@ -1,0 +1,192 @@
+body {
+
+    background-image: url('https://www.android.com/static/2016/img/tv/new-showcase/New-Mobile_background_mobile.webp');
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    background-position: center;
+
+
+
+}
+
+.navbar {
+
+    background-image: linear-gradient(to bottom, #305bcb, #0072d3, #0086d5, #0098d2, #3ea8cd);
+
+    height: 50px;
+
+
+
+
+}
+
+
+
+
+.login-container {
+
+    width: 400px;
+
+    max-width: 80%;
+
+    height: 350px;
+    /* Adjust the height as needed */
+
+    margin: auto;
+
+    text-align: center;
+
+    background-color: rgba(2, 115, 186, 0.7);
+    /* Transparent background color */
+
+    padding: 20px;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+    color: #fff;
+
+    display: flex;
+
+    flex-direction: column;
+
+    margin-top: 80px;
+
+}
+
+h1 {
+
+    margin-top: 0;
+
+    font-size: 24px;
+
+}
+
+form {
+
+    display: flex;
+
+    flex-direction: column;
+
+    flex-grow: 1;
+
+}
+
+label {
+
+    display: block;
+
+    margin-bottom: 0;
+
+}
+
+input[type="text"],
+
+input[type="password"],
+
+input[type="email"] {
+
+    width: 80%;
+
+    padding: 8px;
+
+    margin-bottom: 10px;
+
+    border: 1px solid #ccc;
+
+    border-radius: 4px;
+
+}
+
+button {
+
+    width: 80%;
+
+    padding: 10px;
+
+    border: none;
+
+    border-radius: 4px;
+
+    cursor: pointer;
+
+    font-family: Arial, sans-serif;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+    color: #fff;
+
+    background-color: #1116ad;
+
+    margin: 5px auto 0;
+
+}
+
+button:hover {
+
+    background-color: #0488d4;
+
+}
+
+.error {
+
+    margin-top: 20px;
+
+    color: red;
+
+}
+
+footer {
+
+    background-image: linear-gradient(to bottom, #305bcb, #0072d3, #0086d5, #0098d2, #3ea8cd);
+
+    margin-left: -10px;
+
+    margin-top: 180px;
+
+    color: #fff;
+
+    padding: 30px;
+
+    text-align: left;
+
+    padding-top: 60px;
+
+}
+
+
+
+
+.footer-links a {
+
+    color: #fff;
+
+    text-decoration: none;
+
+}
+
+
+
+
+.footer-text {
+
+    font-size: 14px;
+
+    margin-top: 40px;
+
+    float: right;
+
+}
+
+
+
+
+ul.no-bullets {
+
+    list-style-type: none;
+
+}

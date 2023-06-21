@@ -1,0 +1,33 @@
+<div *ngIf="subservices.length!=0;else noserv">
+<h2>Sub-Service Details</h2>
+<button class="btn btn-success" routerLink="/admin/add-sub-ser">Add Sub Service</button>
+<table class="table table-primary  table-striped-columns">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Sub Service Id</th>
+        <th scope="col">Service Name</th>
+        <th scope="col">Sub-Service Name</th>
+        <th scope="col">Image Path</th>
+        <th scope="col">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let s of subservices,let i = index">
+        <th scope="row">{{i+1}}</th>
+        <td>{{s.subServiceId}}</td>
+        <td>{{s.serviceName}}</td>
+        <td>{{s.subServiceName}}</td>
+        <td>{{s.image}}</td>
+        <td><button class="btn btn-danger" (click)="deleteSubService(s.subServiceId)">Delete</button></td>
+      </tr>
+    </tbody>
+    <ng-template #nodata><p>---</p></ng-template>
+  </table>
+  </div>
+  <ng-template class="nodata" #noserv>
+    <h3>No Users Found</h3>
+    <button type="button" class="btn btn-info btn-lg btn-block" id="back" routerLink="/admin/dashboard">Click here to Redirect to Dashboard</button>
+    <button class="btn btn-success" id="back1" routerLink="/admin/add-sub-ser">Add Sub Service</button>
+
+</ng-template>

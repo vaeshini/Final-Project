@@ -1,0 +1,155 @@
+<body>
+
+  <nav class="navbar navbar-expand-lg">
+
+    <div class="container-fluid">
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+        <span class="navbar-toggler-icon"></span>
+
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+          <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; ">
+
+            <a class="nav-link active" style="color: white;"  aria-current="page" href="#home">Home</a>
+
+          </li>
+
+          <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+
+            <a class="nav-link active" style="color: white;" aria-current="page" href="/login">User Login</a>
+
+          </li>
+
+          <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+
+            <a class="nav-link active" style="color: white;" aria-current="page" href="/admin">Admin Login</a>
+
+          </li>
+
+          <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+
+            <a class="nav-link active" style="color: white;" aria-current="page" href="#contact">Contact Us</a>
+
+          </li>
+
+          <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+
+            <a class="nav-link active" style="color: white;" aria-current="page" href="#about">About Us</a>
+
+          </li>
+
+        </ul>
+
+        <ul class="navbar-nav " style="margin-left: 180px;">
+
+          <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+
+            <a class="nav-link active" style="color: white;" aria-current="page">
+
+              <i class="fa fa-bolt" aria-hidden="true" style="font-size: 25px;"></i> Premium Video </a>
+
+          </li>
+
+        </ul>
+
+      </div>
+
+    </div>
+
+  </nav>
+
+
+
+
+
+
+  <div class="login-container">
+
+    <form>
+
+      <div class="form-group">
+
+        <label for="username">Email</label>
+
+        <input type="text" id="username" name="username" [(ngModel)]="user.email" required>
+
+      </div>
+      <div class="form-group">
+
+        <label for="password">Password</label>
+
+        <input type="password" id="password" name="password" [(ngModel)]="user.password" required>
+
+      </div>
+
+    </form>
+
+    <div>
+
+      <button (click)="log()">Log In</button>
+
+
+
+      <button routerLink="/sign-up"> Sign Up</button>
+
+    </div>
+
+
+
+
+    <div class="error" *ngIf="errorMessage">{{ errorMessage }}</div>
+
+  </div>
+
+
+  <div class="footer">
+
+    <footer>
+
+      <h4>Help & Support</h4>
+
+      <ul class="no-bullets">
+
+        <li>FAQ</li>
+
+        <li>Contact Us</li>
+
+        <li>Terms of Service</li>
+
+        <li>Privacy Policy</li>
+
+      </ul>
+
+      <h4>Connect with Us</h4>
+
+      <ul class="no-bullets">
+
+        <li><i class="fa fa-facebook-official" style="margin-left: 7px;" aria-hidden="true"></i> Facebook</li>
+
+        <li><i class="fa fa-twitter-square" style="margin-left: 7px;" aria-hidden="true"></i>Twitter</li>
+
+        <li><i class="fa fa-instagram" style="margin-left: 7px;" aria-hidden="true"></i>Instagram</li>
+
+      </ul>
+
+      <div class="row">
+
+        <div class="col-md">
+
+          <p class="text-center">&copy; 2023 Your OTT Platform. All rights reserved.</p>
+
+        </div>
+
+      </div>
+
+    </footer>
+
+    <router-outlet></router-outlet>

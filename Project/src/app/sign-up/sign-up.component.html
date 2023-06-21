@@ -1,0 +1,161 @@
+<body>
+
+    <nav class="navbar navbar-expand-lg">
+
+        <div class="container-fluid">
+    
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+    
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    
+            <span class="navbar-toggler-icon"></span>
+    
+          </button>
+    
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+    
+              <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; ">
+    
+                <a class="nav-link active" style="color: white;"  aria-current="page" href="#home">Home</a>
+    
+              </li>
+    
+              <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+    
+                <a class="nav-link active" style="color: white;" aria-current="page" href="/login">User Login</a>
+    
+              </li>
+    
+              <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+    
+                <a class="nav-link active" style="color: white;" aria-current="page" href="/admin">Admin Login</a>
+    
+              </li>
+    
+              <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+    
+                <a class="nav-link active" style="color: white;" aria-current="page" href="#contact">Contact Us</a>
+    
+              </li>
+    
+              <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+    
+                <a class="nav-link active" style="color: white;" aria-current="page" href="#about">About Us</a>
+    
+              </li>
+    
+            </ul>
+    
+            <ul class="navbar-nav " style="margin-left: 180px;">
+    
+              <li class="nav-item" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+    
+                <a class="nav-link active" style="color: white;" aria-current="page">
+    
+                  <i class="fa fa-bolt" aria-hidden="true" style="font-size: 25px;"></i> Premium Video </a>
+    
+              </li>
+    
+            </ul>
+    
+          </div>
+    
+        </div>
+    
+      </nav>
+    
+
+    <div class="container">
+
+        <form>
+
+            <label for="firstName">First Name</label>
+
+            <input type="text" id="firstName" name="firstName" [(ngModel)]="firstName" minlength="2" maxlength="50"
+                required />
+
+            <label for="lastName">Last Name</label>
+
+            <input type="text" id="lastName" name="lastName" [(ngModel)]="lastName" minlength="2" maxlength="50"
+                required />
+
+            <label for="phoneNumber">Phone Number</label>
+
+            <input type="text" id="phoneNumber" name="phoneNumber" [(ngModel)]="phoneNumber" pattern="[0-9]{10}"
+                required />
+
+            <label for="email">Email</label>
+
+            <input type="email" id="email" name="email" [(ngModel)]="email" required
+                pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Enter a valid email address" style="
+    
+              width: 100%;
+    
+              padding: 8px;
+    
+              margin-bottom: 10px;
+    
+              border: 1px solid #ccc;
+    
+              border-radius: 4px;
+    
+            " />
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" [(ngModel)]="password" minlength="10" required />
+
+            <label for="password">Confirm Password</label>
+            <input type="password" id="password" name="password" [(ngModel)]="cnPassword" minlength="10" required />
+
+            <button (click)="login()">Sign Up</button>
+
+        </form>
+
+    </div>
+
+    <div class="footer">
+
+        <footer>
+
+            <h4>Help & Support</h4>
+
+            <ul class="no-bullets">
+
+                <li>FAQ</li>
+
+                <li>Contact Us</li>
+
+                <li>Terms of Service</li>
+
+                <li>Privacy Policy</li>
+
+            </ul>
+
+            <h4>Connect with Us</h4>
+
+            <ul class="no-bullets">
+
+                <li><i class="fa fa-facebook-official" style="margin-left: 7px;" aria-hidden="true"></i> Facebook</li>
+
+                <li><i class="fa fa-twitter-square" style="margin-left: 7px;" aria-hidden="true"></i>Twitter</li>
+
+                <li><i class="fa fa-instagram" style="margin-left: 7px;" aria-hidden="true"></i>Instagram</li>
+
+            </ul>
+
+            <div class="row">
+
+                <div class="col-md">
+
+                    <p class="text-center">&copy; 2023 Your OTT Platform. All rights reserved.</p>
+
+                </div>
+
+            </div>
+
+        </footer>
+
+    </div>
+
+    <router-outlet></router-outlet>

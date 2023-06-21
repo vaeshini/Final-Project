@@ -1,0 +1,29 @@
+<h2>Subscription Tier Details</h2>
+<button class="btn btn-success" routerLink="/admin/add-subscription">Add Subscrption Tier</button>
+<table class="table table-primary  table-striped-columns">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Subscription Tier Id</th>
+        <th scope="col">Service Name</th>
+        <th scope="col">Sub-Service Name</th>
+        <th scope="col">Tier Name</th>
+        <th scope="col">Price</th>
+        <th scope="col">Duration</th>
+        <th scope="col">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let s of subscriptionTier,let i = index">
+        <th scope="row">{{i+1}}</th>
+        <td>{{s.st.subscriptionTierId}}</td>
+        <td>{{s.serviceName}}</td>
+        <td>{{s.subServiceName}}</td>
+        <td>{{s.st.tierName}}</td>
+        <td>{{s.st.price}}</td>
+        <td>{{s.st.duration}}</td>
+        <td><button class="btn btn-dark" (click)="editTier(s.st.subscriptionTierId)">Edit</button></td>
+      </tr>
+    </tbody>
+    <ng-template #nodata><p>---</p></ng-template>
+  </table>

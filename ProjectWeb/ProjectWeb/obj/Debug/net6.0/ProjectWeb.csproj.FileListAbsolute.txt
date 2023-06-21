@@ -1,0 +1,263 @@
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\appsettings.Development.json
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\appsettings.json
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.exe
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.deps.json
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.runtimeconfig.json
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.pdb
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Azure.Core.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Azure.Identity.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Humanizer.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.CodeDom.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Memory.Data.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Text.Json.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.AssemblyReference.cache
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.AssemblyInfoInputs.cache
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.AssemblyInfo.cs
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.CoreCompileInputs.cache
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.MvcApplicationPartsAssemblyInfo.cs
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.ProjectWeb.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectWeb.props
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectWeb.props
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectWeb.props
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets.build.json
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets.development.json
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\scopedcss\bundle\ProjectWeb.styles.css
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.CopyComplete
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.dll
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\refint\ProjectWeb.dll
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.pdb
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.genruntimeconfig.cache
+F:\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ref\ProjectWeb.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\appsettings.Development.json
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\appsettings.json
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.exe
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.deps.json
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.runtimeconfig.json
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.pdb
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Azure.Core.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Azure.Identity.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Humanizer.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.CodeDom.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Text.Json.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.AssemblyReference.cache
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.AssemblyInfoInputs.cache
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.AssemblyInfo.cs
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.CoreCompileInputs.cache
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.MvcApplicationPartsAssemblyInfo.cs
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.ProjectWeb.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectWeb.props
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectWeb.props
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectWeb.props
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets.build.json
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets.development.json
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\scopedcss\bundle\ProjectWeb.styles.css
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.CopyComplete
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\refint\ProjectWeb.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.pdb
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.genruntimeconfig.cache
+F:\Final-Project\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ref\ProjectWeb.dll
+F:\Final-Project\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.exe
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.deps.json
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.runtimeconfig.json
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\ProjectWeb.pdb
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.AssemblyInfo.cs
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.ProjectWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectWeb.props
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectWeb.props
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectWeb.props
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\scopedcss\bundle\ProjectWeb.styles.css
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.CopyComplete
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\refint\ProjectWeb.dll
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.pdb
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ProjectWeb.genruntimeconfig.cache
+C:\Users\HP\OneDrive - Spektra Systems LLC\Desktop\Final-Project-main\ProjectWeb\ProjectWeb\obj\Debug\net6.0\ref\ProjectWeb.dll

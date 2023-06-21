@@ -1,0 +1,47 @@
+<div class="container">
+    <form novalidate #form="ngForm" (submit)="onSubmit(form)">
+        <div *ngIf="subServ.length!=0;else noserv">
+        <div>
+            <h2 class="text-center">Enter Subscription Plan Details</h2>
+        </div>
+        <div>
+            <label>SUB-SERVICE NAME</label>
+            <select class="form-control form-control-lg" [(ngModel)]="subServId" name="status" required>
+                <option *ngFor="let s of subServ" [ngValue]="s.subServiceId">{{s.subServiceName}}</option>
+            </select>
+        </div>
+        <br>
+        <div class="form-group">
+            <label>BASIC PLAN AMOUNT</label>  
+            <input class="form-control form-control-lg" placeholder="Basic Plan"
+            name="serviceName" #serviceName="ngModel" [(ngModel)]="amt1" required>    
+        </div>
+        <br>
+        <div class="form-group">
+            <label>STANDARD PLAN AMOUNT</label>  
+            <input class="form-control form-control-lg" placeholder="Medium Plan"
+            name="serviceName" #serviceName="ngModel" [(ngModel)]="amt2" required>    
+        </div>
+        <br>
+        <div class="form-group">
+            <label>PREMIUM PLAN AMOUNT</label>  
+            <input class="form-control form-control-lg" placeholder="Standard Plan"
+            name="serviceName" #serviceName="ngModel" [(ngModel)]="amt3" required>    
+        </div>
+        <br> 
+        <br>
+        <div class="row">
+        <div class="form-group col-md-2">
+            <button type="submit" class="btn btn-info btn-lg btn-block" [disabled]="form.invalid" >Submit</button>
+        </div>
+        <div class=" col-md-2">
+            <button type="button" class="btn btn-info btn-lg btn-block"><a href="admin/subscription">Cancel</a></button>
+        </div>
+    </div>
+    </div>
+    <ng-template class="nodata" #noserv>
+        <h3>No Sub-Service to Add Subscription Plan Details</h3>
+        <button type="button" class="btn btn-info btn-lg btn-block" id="back" routerLink="/admin/subscription">Click here to Redirect to Subscription Plan</button>
+    </ng-template>
+    </form>
+</div>

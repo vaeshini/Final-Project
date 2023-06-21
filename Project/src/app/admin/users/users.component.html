@@ -1,0 +1,32 @@
+<div *ngIf="users.length!=0;else noserv">
+<h2>User Details</h2>
+<table class="table table-primary  table-striped-columns">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">User Id</th>
+        <th scope="col">First Name</th>
+        <th scope="col">Last Name</th>
+        <th scope="col">Phone No</th>
+        <th scope="col">Email</th>
+        <th scope="col">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let u of users,let i = index">
+        <th scope="row">{{i+1}}</th>
+        <td>{{u.userId}}</td>
+        <td>{{u.firstName}}</td>
+        <td>{{u.lastName}}</td>
+        <td>{{u.phoneNumber}}</td>
+        <td>{{u.email}}</td>
+        <td><button class="btn btn-dark"  (click)="deleteUser(u.userId)">Delete</button></td>
+      </tr>
+    </tbody>
+    <ng-template #nodata><p>---</p></ng-template>
+  </table> 
+</div>
+  <ng-template class="nodata" #noserv>
+    <h3>No Users Found</h3>
+    <button type="button" class="btn btn-info btn-lg btn-block" id="back" routerLink="/admin/dashboard">Click here to Redirect to Dashboard</button>
+</ng-template>

@@ -1,0 +1,35 @@
+<div class="container">
+    <form novalidate #form="ngForm" (submit)="onSubmit(form)">
+        <div>
+            <h3 class="text-center">Enter Sub Service Details</h3>
+        </div>
+        <div>
+            <label>SERVICE NAME</label>
+            <select class="form-control form-control-lg" [(ngModel)]="servId" name="status" required>
+                <option *ngFor="let s of serv" [ngValue]="s.serviceId">{{s.serviceName}}</option>
+            </select>
+        </div>
+        <br>
+        <div class="form-group">
+            <label>SUB SERVICE NAME</label>  
+            <input class="form-control form-control-lg" placeholder="Full Name"
+            name="serviceName" #serviceName="ngModel" [(ngModel)]="name" required>    
+        </div>
+        <br>
+        <div class="form-group">
+            <label>SUB SERVICE LOGO</label>  
+            <input type="file" class="form-control form-control-lg" (change)="onselectFile($event)" required>    
+        </div>
+        <br>
+
+        <br> 
+        <div class="row">
+        <div class="form-group col-md-2">
+            <button type="submit" class="btn btn-info btn-lg btn-block" [disabled]="form.invalid" >Submit</button>
+        </div>
+        <div class=" col-md-2">
+            <button type="button" class="btn btn-info btn-lg btn-block"><a href="admin/add-subscription">Cancel</a></button>
+        </div>
+    </div>
+    </form>
+</div>

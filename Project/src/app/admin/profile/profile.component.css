@@ -1,0 +1,35 @@
+.container{
+  margin-left: 200px;
+  margin-top: 20px;
+}
+a{
+  color: black;
+}
+.btn{
+  text-decoration: underline;
+}
+.profile-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f1f1;
+  margin-left: 190px;
+}
+.profile-pic img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+fieldset{
+  border: 2px solid black;
+  padding: 30px;
+  border-radius: 5%;
+  background-color: rgb(125, 240, 204);
+}
+#back{
+  margin-left: 20px;
+}

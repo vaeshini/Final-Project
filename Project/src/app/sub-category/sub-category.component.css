@@ -1,0 +1,517 @@
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+.navbar {
+
+    background-image: linear-gradient(to bottom, #305bcb, #0072d3, #0086d5, #0098d2, #3ea8cd);
+
+    height: 50px;
+
+
+
+}
+
+body {
+
+    background-image: linear-gradient(to right top, #121315, #161719, #1a1b1e, #1e1f22, #222327);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+}
+
+
+
+
+
+
+
+h1 {
+
+    font-size: 32px;
+
+    margin-bottom: 10px;
+
+}
+
+/* Styling for the welcome message */
+
+.welcome {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    font-size: 30px;
+
+    font-weight: normal;
+
+    color: white;
+
+    text-align: center;
+
+    margin-top: 80px;
+
+    margin-bottom: 20px;
+
+
+
+}
+
+
+
+p {
+
+    font-size: 16px;
+
+}
+
+
+
+.hero-text {
+
+    text-align: center;
+
+    color: #fff;
+
+}
+
+
+
+.hero-text h1 {
+
+    font-size: 30px;
+
+    margin-bottom: 30px;
+
+}
+
+
+
+.hero-text p {
+
+    font-size: 35px;
+
+    margin-top: 100px;
+
+    margin-bottom: 100px;
+
+}
+
+.btn {
+
+    display: inline-block;
+
+    padding: 10px 20px;
+
+    background-color: #1919ee;
+
+    color: #fff;
+
+    text-decoration: none;
+
+    text-align: center;
+
+    border-radius: 4px;
+
+    font-size: 16px;
+
+    margin-top: 20px;
+
+}
+
+
+
+.btn:hover {
+
+    background-color: #28228d;
+
+}
+
+
+
+.btn:active {
+
+    background-color: #39219a;
+
+}
+
+/* CSS for the featured services section */
+
+.featured-services {
+
+    padding-top: 100px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 100px;
+
+    margin-bottom: 20px;
+
+    justify-content: center;
+
+    align-items: center;
+
+    padding-inline: 80px;
+
+    border-top-width: 20px;
+
+    width: 1000px;
+
+    margin-left: 180px;
+
+}
+
+
+
+/* CSS for the service cards */
+
+.service-card {
+
+    width: 1000px;
+
+    height: 350px;
+
+    border-radius: 8px;
+
+    padding: 10px;
+
+    align-items: center;
+
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+
+}
+
+
+
+
+
+/* Add hover effect to the service cards */
+
+.service-card:hover {
+
+    transform: scale(1.1);
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+}
+
+
+
+.my-button {
+
+    background-color: #256df3;
+
+    margin-left: 60px;
+
+    margin-top: 10px;
+
+    height: 30px;
+
+    width: 150px;
+
+    color: white;
+
+    text-align: center;
+
+    border: black;
+
+    border-radius: 6px;
+
+    transition: background-color 0.3s;
+
+}
+
+
+
+.my-button:hover {
+
+    background-color: #3a30b9;
+
+}
+
+
+
+footer {
+
+    background-image: linear-gradient(to bottom, #305bcb, #0072d3, #0086d5, #0098d2, #3ea8cd);
+
+    margin-left: -10px;
+
+    margin-top: 180px;
+
+    color: #fff;
+
+    padding: 30px;
+
+    text-align: left;
+
+    padding-top: 60px;
+
+}
+
+
+
+.footer-links a {
+
+    color: #fff;
+
+    text-decoration: none;
+
+}
+
+
+
+.footer-text {
+
+    font-size: 14px;
+
+    margin-top: 40px;
+
+    float: right;
+
+}
+
+
+
+ul.no-bullets {
+
+    list-style-type: none;
+
+}
+
+
+
+/* Styling for the form container */
+
+
+
+
+
+
+
+
+
+/* Styling for the search button */
+
+.btn-danger {
+
+    /* Add your custom styles for the button */
+
+    /* For example: */
+
+    padding: 5px 16px;
+
+    background-color: rgb(51, 16, 178);
+
+    color: white;
+
+    border: none;
+
+    height: 25px;
+
+    border-radius: 4px;
+
+    display: flex;
+
+    box-shadow: #e2e9ec;
+
+    align-items: center;
+
+    margin-top: auto;
+
+}
+
+.hero {
+
+    position: relative;
+
+}
+
+#watch-now-box {
+
+    background-color: #d8e345;
+
+    color: #333;
+
+    padding: 10px;
+
+    border-radius: 5px;
+
+    text-align: center;
+
+    font-weight: bold;
+
+    font-size: 26px;
+
+    width: 280px;
+
+    height: 120px;
+
+    position: absolute;
+
+    margin-top: 230px;
+
+    margin-left: 505px;
+
+}
+
+
+
+#heroImg {
+
+    width: 100%;
+
+    height: 500px;
+
+}
+
+.d-flex {
+
+    display: flex;
+
+    margin-right: 680px;
+
+}
+
+
+
+.contact-section {
+
+    max-width: 800px;
+
+    border-color: #256df3;
+
+    border-style: solid;
+
+    margin-left: 400px;
+
+    padding: 20px;
+
+    background-color: black;
+
+    border-radius: 4px;
+
+}
+
+
+
+.contact-section h2 {
+
+    color: white;
+
+    font-size: 24px;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+.contact-section p {
+
+    color: white;
+
+    font-size: 16px;
+
+    line-height: 1.5;
+
+}
+
+
+
+.contact-section .contact-info {
+
+    margin-top: 20px;
+
+    color: white;
+
+
+
+}
+
+
+
+.contact-section .contact-info p {
+
+    margin-bottom: 10px;
+
+    color: white;
+
+
+
+}
+
+
+
+.contact-section .contact-info i {
+
+    margin-right: 10px;
+
+    color: white;
+
+
+
+}
+
+
+
+.about-section {
+
+    max-width: 800px;
+
+    margin-left: 100px;
+
+    margin-bottom: 80px;
+
+    margin-top: 80px;
+
+    padding: 20px;
+
+    border-style: solid;
+
+    border-color: #256df3;
+
+    background-color: #0a0808;
+
+    border-radius: 4px;
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+
+
+.about-section h2 {
+
+    font-size: 24px;
+
+    color: white;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+.about-section p {
+
+    color: white;
+
+    font-size: 16px;
+
+    line-height: 1.5;
+
+}

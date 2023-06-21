@@ -1,0 +1,593 @@
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+.navbar {
+
+    background-image: linear-gradient(to bottom,
+
+            #305bcb,
+
+            #0072d3,
+
+            #0086d5,
+
+            #0098d2,
+
+            #3ea8cd);
+
+    height: 50px;
+
+    font-family: Arial, sans-serif;
+
+    font-size: 20px;
+
+}
+
+body {
+
+    background-image: linear-gradient(to right top,
+
+            #121315,
+
+            #161719,
+
+            #1a1b1e,
+
+            #1e1f22,
+
+            #222327);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+}
+
+
+
+
+.sub-container {
+
+    display: flex;
+
+
+
+
+    justify-content: center;
+
+
+
+
+    align-items: center;
+
+}
+
+
+
+
+.box1,
+
+.box2,
+
+.box3 {
+
+    height: 100%;
+
+
+
+
+    display: flex;
+
+
+
+
+    flex-direction: column;
+
+
+
+
+    justify-content: center;
+
+
+
+
+    align-items: center;
+
+    color: white;
+
+    text-align: center;
+    /* Added to center-align the content */
+
+}
+
+
+
+
+.subscribe-button {
+
+    margin-top: 20px;
+
+}
+
+
+
+
+.featured h3,
+
+.featured h4 {
+
+    font-size: 24px;
+
+
+
+
+    font-weight: bold;
+
+
+
+
+    margin-bottom: 10px;
+
+}
+
+
+
+
+.featured ul {
+
+    list-style-type: none;
+    /* Removed bullets from the list */
+
+
+
+
+    padding: 0;
+    /* Removed default padding */
+
+}
+
+
+
+
+.featured ul li {
+
+    font-size: 18px;
+
+
+
+
+    margin-bottom: 5px;
+
+}
+
+
+
+
+.subscribe-button {
+
+    margin-top: 20px;
+
+
+
+
+    padding: 10px 20px;
+
+
+
+
+    font-size: 20px;
+
+
+
+
+    background-color: #2b49e1;
+
+
+
+
+    color: #fff;
+
+
+
+
+    border: none;
+
+
+
+
+    border-radius: 5px;
+
+
+
+
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+.container {
+
+    width: 1000px;
+
+
+
+
+    max-width: 80%;
+
+
+
+
+    height: 500px;
+    /* Adjust the height as needed */
+
+    border: #0072d3;
+
+    border-style: solid;
+
+    text-align: center;
+
+
+
+
+    background-color: #0e0d0f;
+    /* Set container form background color to white */
+
+
+
+
+    padding: 20px;
+
+
+
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+
+
+
+    color: #000;
+    /* Update text color to black */
+
+
+
+
+    display: flex;
+
+
+
+
+    justify-content: space-between;
+
+
+
+
+    border: 1px solid blue;
+    /* Set border color of container to blue */
+
+    margin-left: 150px;
+
+    margin-top: 100px;
+
+}
+
+
+
+
+.sub-container {
+
+    flex-basis: 30%;
+
+
+
+
+    padding: 20px;
+
+
+
+
+    background-color: #060505;
+
+
+
+
+    border: 1px solid #ddd;
+
+    border: #0072d3;
+
+    border-style: solid;
+
+    border-radius: 4px;
+
+
+
+
+    transition: background-color 0.3s ease;
+
+
+
+
+    display: flex;
+
+
+
+
+    flex-direction: column;
+
+
+
+
+    justify-content: flex-end;
+
+}
+
+
+
+
+.sub-container:hover {
+
+    background-color: #099cf0;
+
+}
+
+
+
+
+.button {
+
+    margin-top: 10px;
+
+
+
+
+    padding: 8px 16px;
+
+
+
+
+    font-size: 16px;
+
+
+
+
+    font-weight: bold;
+
+
+
+
+    border: none;
+
+
+
+
+    border-radius: 4px;
+
+
+
+
+    cursor: pointer;
+
+
+
+
+    color: #fff;
+
+
+
+
+    background-color: #007bff;
+
+}
+
+
+
+
+.button:hover {
+
+    background-color: #0056b3;
+
+}
+
+
+
+
+.error {
+
+    margin-top: 20px;
+
+
+
+
+    color: red;
+
+}
+
+
+
+
+footer {
+
+    background-color: #02298c;
+
+
+
+
+    margin-left: -10px;
+
+
+
+
+    margin-top: 180px;
+
+
+
+
+    color: #fff;
+
+
+
+
+    padding: 30px;
+
+
+
+
+    text-align: left;
+
+
+
+
+    padding-top: 60px;
+
+}
+
+
+
+
+.footer-links a {
+
+    color: #fff;
+
+
+
+
+    text-decoration: none;
+
+}
+
+
+
+
+.footer-text {
+
+    font-size: 14px;
+
+
+
+
+    margin-top: 40px;
+
+
+
+
+    float: right;
+
+}
+
+
+
+
+ul.no-bullets {
+
+    list-style-type: none;
+
+}
+
+.footer {
+
+    background-image: linear-gradient(to bottom,
+
+            #305bcb,
+
+            #0072d3,
+
+            #0086d5,
+
+            #0098d2,
+
+            #3ea8cd);
+
+    padding: 20px;
+
+    font-family: Arial, sans-serif;
+
+    font-size: 20px;
+
+}
+
+
+
+
+.footer h4 {
+
+    font-size: 18px;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+
+.footer ul {
+
+    list-style-type: none;
+
+    padding: 0;
+
+    margin-bottom: 15px;
+
+}
+
+
+
+
+.footer ul li {
+
+    margin-bottom: 5px;
+
+}
+
+
+
+
+.footer ul li i {
+
+    margin-right: 7px;
+
+}
+
+
+
+
+.footer p {
+
+    font-size: 14px;
+
+    margin: 0;
+
+    text-align: center;
+
+}
+
+
+
+
+.footer .row {
+
+    margin-top: 20px;
+
+    display: flex;
+
+    justify-content: center;
+
+}
+
+
+
+
+.footer .col-md {
+
+    text-align: center;
+
+}
